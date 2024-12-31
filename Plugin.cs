@@ -22,7 +22,7 @@ namespace SubspaceTripmineLC
     {
         public const string GUID = "funfoxrr.SubspaceTripmine";
         public const string NAME = "Subspace Tripmine";
-        public const string VERSION = "0.0.0";
+        public const string VERSION = "1.0.0";
 
         public static STPlugin Instance { get; private set; }
 
