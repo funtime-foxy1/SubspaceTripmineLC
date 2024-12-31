@@ -103,7 +103,7 @@
     <Compile Include="SubspaceTripmine.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="readme.txt" />
+    <None Include="README.md" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
